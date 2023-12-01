@@ -1,0 +1,7 @@
+{
+  "name": "BitsPlay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
